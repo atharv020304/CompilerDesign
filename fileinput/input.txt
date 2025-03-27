@@ -1,0 +1,30 @@
+x = 10;
+y = 20;
+z = "hello";
+w = 'a';
+k = 10.10;
+
+print x;
+print y;
+print z;
+print w;
+print k;
+
+print;
+
+p = x + y;
+q = x - y;
+r = x * y;
+l = y % x;
+
+print;
+
+class myclass : a,b,c
+obj = myclass();
+obj^a = "hello";
+obj^b = "world";
+obj^c = 10;
+
+
+print;
+
